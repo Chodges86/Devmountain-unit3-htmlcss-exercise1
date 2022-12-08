@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+}
+.header {
+  font-size: 48px;
+  background-color: #274c77;
+  margin: 0;
+  padding: 64px;
+}
+
+.background-class {
+  position: absolute;
+  width: 1400px;
+  height: 800px;
+
+  background-image: url("images/background.png");
+}
+
+.menu-class {
+  position: absolute;
+  width: 485px;
+  width: 485px;
+  height: 544px;
+  left: 35px;
+  top: 50px;
+  background-color: #609cba;
+  border-radius: 15px;
+  box-shadow: -10px 5px 5px rgba(0,0,0,0.3);
+}
+
+.menu-title {
+    font-size: 45px;
+}
+
+.menu-items {
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+}
+
+.drink-menu {
+    display: inline;
+    padding: 20px 10px;
+    font-size: 15px;
+    position: relative;
+    left: 48px;
+}
+
+h1 {
+    font-family: "The Nautigal", cursive;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Texturina', serif;
+    color: white;
+    
+}
+
