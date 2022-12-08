@@ -10,7 +10,7 @@ body {
 
 .background-class {
   position: absolute;
-  width: 1400px;
+  width: 2000px;
   height: 800px;
 
   background-image: url("images/background.png");
